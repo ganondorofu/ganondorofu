@@ -1,8 +1,58 @@
-<p>
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganondorofu&layout=compact&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ganondorofu&theme=onedark&show_icons=ture" />
-  <img alt="Top Langs" height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ganondorofu&theme=onedark" />
-</p>
-<hr>
+<!-- 背景を黒系にするテーマの統一（テーマ：onedark） -->
+<h1 align="center">Hi there 👋 I'm ganondorofu</h1>
 
-![](https://github-profile-trophy.vercel.app/?username=ganondorofu&theme=onedark)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F78166&center=true&vCenter=true&width=435&lines=工業高校生+%2F+STEM研究部;サーバー+%26+IoT好き;Python+%26+Nextcloud+%26+RaspberryPi" alt="Typing SVG" />
+</p>
+
+---
+
+### 🚀 About Me
+- 🧠 興味分野: 自作サーバー / IoT / AR・VR / 自動化 / Sim開発
+- ⚡ よく使う技術: `Python`, `Node.js`, `React`, `Firebase`, `Arduino`
+- 📫 Contact: [Twitter](https://twitter.com/ganondorofu) / Discord: `ganondorofu`
+
+---
+
+### 📊 Stats & Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ganondorofu&theme=onedark&show_icons=true&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganondorofu&layout=compact&theme=onedark&hide_border=true" height="180" />
+</p>
+
+---
+
+### 🧩 Profile Summary
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ganondorofu&theme=onedark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ganondorofu&theme=onedark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ganondorofu&theme=onedark&utcOffset=9" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ganondorofu&theme=onedark&no-frame=true&no-bg=true&margin-w=10" />
+</p>
+
+---
+
+### 🔥 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ganondorofu&theme=github-compact&hide_border=true" />
+</p>
+
+---
+
+### 💬 Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
+
+---
+
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,arduino,raspberrypi,react,vercel,nginx,firebase,linux,bash,git&theme=dark" />
+</p>
