@@ -1,5 +1,6 @@
 <!-- 背景を黒系にするテーマの統一（テーマ：onedark） -->
 <h1 align="center">Hi there 👋 I'm ganondorofu</h1>
+<p align="center"><i>自宅サーバー最高！ハードもWebも全力な工業高校生</i></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F78166&center=true&vCenter=true&width=435&lines=工業高校生+%2F+STEM研究部;サーバー+%26+IoT好き;Python+%26+Nextcloud+%26+RaspberryPi" alt="Typing SVG" />
@@ -8,9 +9,24 @@
 ---
 
 ### 🚀 About Me
-- 🧠 興味分野: 自作サーバー / IoT / AR・VR / 自動化 / Sim開発
-- ⚡ よく使う技術: `Python`, `Node.js`, `React`, `Firebase`, `Arduino`
-- 📫 Contact: [Twitter](https://twitter.com/ganondorofu) / Discord: `ganondorofu`
+- 🎓 工業高校で学びつつ、個人でも開発・構築に取り組んでます
+- 🧠 興味分野: 自作サーバー / IoT / 組込み開発 / 自動化 / VR / Webアプリ
+- ⚡ 得意分野: 組み込み・フロントエンド・バックエンド・インフラ、まるっと全部触ります
+- 🧪 勉強中: Java / ネットワーク全般（特にルーティング・DNS・監視系）
+- 🛠 主な制作物:
+  - **ClassConnect** - クラスの連絡・課題・時間割管理ツール（Firebase + React）
+  - **CanSat** - Spresenseでの飛行ログ・動画記録システム＋BLE探索支援
+  - **自宅サーバー群** - ProxmoxでDNS/DHCP/Mail/Nextcloud監視まで構築
+  - **Reminder** - Flutter製の持ち物チェック＆通知アプリ（ローカルDB対応）
+
+---
+
+### 🛠️ Tech Stack
+- 💻 言語: Python / JavaScript / C# / Bash / Java（勉強中）
+- 🌐 フロント: React / Flutter / Unity（XR開発含む）
+- 🧰 バックエンド: Node.js / Spring Boot / Firebase
+- 💾 インフラ・OS: Proxmox / Linux / Nextcloud / nginx / GitHub Actions
+- 🛰 組込み: Arduino / Raspberry Pi / Pico / BLE / Spresense
 
 ---
 
@@ -40,7 +56,7 @@
 
 ### 🔥 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ganondorofu&theme=github-compact&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ganondorofu&theme=onedark&hide_border=true" />
 </p>
 
 ---
@@ -52,7 +68,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Icons (Visual Summary)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,arduino,raspberrypi,react,vercel,nginx,firebase,linux,bash,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,arduino,raspberrypi,react,vercel,nginx,firebase,linux,bash,git,java,flutter,spring&theme=dark" />
 </p>
