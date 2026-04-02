@@ -8,6 +8,23 @@
 
 ---
 
+### 💻 Ubuntu-Style Portfolio
+<p align="center">
+  <a href="https://komeniki.net" target="_blank">
+    <img src="https://img.shields.io/badge/🖥️_Portfolio-Ubuntu_Terminal-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ganondorofu/ganondorofu/main/assets/terminal-preview.svg" alt="Terminal Portfolio Preview" />
+</p>
+
+<p align="center">
+  <i>インタラクティブなUbuntuターミナル風ポートフォリオサイトで、私のプロジェクトやスキルを探索できます</i>
+</p>
+
+---
+
 ### 🚀 About Me
 - 🎓 工業高校で学びつつ、個人でも開発・構築に取り組んでます
 - 🧠 興味分野: 自作サーバー / IoT / 組込み開発 / 自動化 / VR / Webアプリ

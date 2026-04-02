@@ -1,0 +1,86 @@
+<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .terminal-container {
+          background: linear-gradient(135deg, #2d0a28 0%, #1a1a2e 100%);
+          border-radius: 8px;
+          box-shadow: 0 10px 40px rgba(0, 0, 0, 0.5);
+          padding: 0;
+          font-family: 'Monaco', 'Menlo', 'Ubuntu Mono', monospace;
+          width: 100%;
+          height: 100%;
+          display: flex;
+          flex-direction: column;
+        }
+        .terminal-header {
+          background: #2d2d2d;
+          padding: 10px;
+          border-radius: 8px 8px 0 0;
+          display: flex;
+          align-items: center;
+          gap: 8px;
+        }
+        .terminal-button {
+          width: 12px;
+          height: 12px;
+          border-radius: 50%;
+        }
+        .terminal-button.close { background: #ff5f56; }
+        .terminal-button.minimize { background: #ffbd2e; }
+        .terminal-button.maximize { background: #27c93f; }
+        .terminal-title {
+          color: #bbb;
+          font-size: 13px;
+          margin-left: 10px;
+        }
+        .terminal-body {
+          padding: 20px;
+          color: #f8f8f2;
+          font-size: 14px;
+          line-height: 1.8;
+          flex: 1;
+        }
+        .prompt {
+          color: #50fa7b;
+          font-weight: bold;
+        }
+        .command {
+          color: #8be9fd;
+        }
+        .output {
+          color: #f8f8f2;
+          margin-left: 0;
+        }
+        .highlight {
+          color: #ff79c6;
+          font-weight: bold;
+        }
+        .link {
+          color: #bd93f9;
+          text-decoration: underline;
+        }
+      </style>
+      <div class="terminal-container">
+        <div class="terminal-header">
+          <div class="terminal-button close"></div>
+          <div class="terminal-button minimize"></div>
+          <div class="terminal-button maximize"></div>
+          <span class="terminal-title">ganondorofu@portfolio:~</span>
+        </div>
+        <div class="terminal-body">
+          <div><span class="prompt">ganondorofu@ubuntu</span>:<span class="command">~</span>$ cat about.txt</div>
+          <div class="output">工業高校生 | サーバー &amp; IoT エンジニア</div>
+          <div class="output">Full-stack Developer | Hardware Enthusiast</div>
+          <div style="margin-top: 12px;"><span class="prompt">ganondorofu@ubuntu</span>:<span class="command">~</span>$ ls projects/</div>
+          <div class="output"><span class="highlight">ClassConnect</span>  <span class="highlight">CanSat</span>  <span class="highlight">自宅サーバー群</span>  <span class="highlight">Reminder</span></div>
+          <div style="margin-top: 12px;"><span class="prompt">ganondorofu@ubuntu</span>:<span class="command">~</span>$ echo $SKILLS</div>
+          <div class="output">Python | React | Flutter | Proxmox | Arduino | RaspberryPi</div>
+          <div style="margin-top: 12px;"><span class="prompt">ganondorofu@ubuntu</span>:<span class="command">~</span>$ visit <span class="link">https://komeniki.net</span></div>
+          <div class="output">🚀 インタラクティブポートフォリオを開く...</div>
+          <div><span class="prompt">ganondorofu@ubuntu</span>:<span class="command">~</span>$ █</div>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
