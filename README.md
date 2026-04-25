@@ -1,5 +1,5 @@
 <!-- 背景を黒系にするテーマの統一（テーマ：onedark） -->
-<h1 align="center">Hi there 👋 I'm ganondorofu</h1>
+<h1 align="center">Hi there 👋 I'm komeniki</h1>
 <p align="center"><i>自宅サーバー最高！ハードもWebも全力な工業高校生</i></p>
 
 <p align="center">
