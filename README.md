@@ -1,3 +1,8 @@
+
+
+<a href="https://justuuid.pages.dev/u/a3698810-29d2-41b6-ae94-86161eb4153f" target="_blank" rel="noopener noreferrer">
+  <img src="https://justuuid.pages.dev/api/badge/u/a3698810-29d2-41b6-ae94-86161eb4153f.svg" alt="UUID Badge" />
+</a>
 <!-- 背景を黒系にするテーマの統一（テーマ：onedark） -->
 <h1 align="center">Hi there 👋 I'm komeniki</h1>
 <p align="center"><i>自宅サーバー最高！ハードもWebも全力な工業高校生</i></p>
