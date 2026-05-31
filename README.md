@@ -5,7 +5,7 @@
 </a>
 <!-- 背景を黒系にするテーマの統一（テーマ：onedark） -->
 <h1 align="center">Hi there 👋 I'm komeniki</h1>
-<p align="center"><i>自宅サーバー最高！ハードもWebも全力な工業高校生</i></p>
+<p align="center"><i>自宅サーバー最高！ハードもWebも全力な人</i></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F78166&center=true&vCenter=true&width=435&lines=工業高校生+%2F+STEM研究部;サーバー+%26+IoT好き;Python+%26+Nextcloud+%26+RaspberryPi" alt="Typing SVG" />
